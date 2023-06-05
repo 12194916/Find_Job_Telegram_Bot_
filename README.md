@@ -3,10 +3,13 @@ A telegram bot that will give jobs according to your preferences.
 
 **Requirements**
 
-pyTelegramBotAPI
-pandas
-flashtext
-telebot
+-pyTelegramBotAPI
+
+-pandas
+
+-flashtext
+
+-telebot
 
 **Demo Telegram Bot**
 https://t.me/Find_myJobs_by_Yusuf_bot
